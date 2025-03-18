@@ -1,0 +1,19 @@
+
+# TP à Faire en Groupe
+
+Pour ce TP en Groupe j'aimerai que chacun réalise sur sa branche les éléments suivants :
+
+1. Réparer le README.md (Mettre l'image Github logo dans le READMEmd dans la partie '## Github')
+2. Créer un fichier .txt et nommez le Présentation_prénom(ex: Présentation_Thomas)
+3. Dans le fichier Présentation_prénom.txt rentré vos informations :
+                - FirstName :
+                - Age :
+                - Job :
+                - Localisation :
+4. Ajout d'une image de votre choix dans Projet/images
+5. Mettre a jour dans le README.md l'architecture du projet dans l'onget ## Architecture du Projet
+6. Ajout d'une branche developp_prénom (ex: developp_thomas)
+7. Veuillez push votre projet
+8. Contactez-moi pour le merge
+
+Bonne courage !
