@@ -1,6 +1,6 @@
 ## Github
 
----A réparer----
+![GitHub Logo](images/github.svg)
 
 ## tp-git
 
@@ -55,7 +55,12 @@ PROJET_TP_GIT
 │   │── git-pull.svg
 │   │── git-push.png
 │   │── git-push.svg
-│   └── GitHub-Logo.jpg
+│   └── GitHub-Logo.svg
 │── LICENSE
+│── Présentation_Thierno.txt
 │── Présentation-Tp.txt
 └── README.md
+
+
+[def]: images/GitHub-Logo.svg
+[GitHub-Logo.svg]: images/GitHub-Logo.svg
